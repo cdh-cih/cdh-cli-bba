@@ -2,7 +2,7 @@
 .eggs/
 credentials
 .vscode
-.envrc
+.envrc1
 cdh.egg-info/
 .idea
 **/.DS_Store
