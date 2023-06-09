@@ -15,3 +15,4 @@ infrastructure/.terraform/
 infrastructure/terraform.tfstate.backup
 VERSION-BINARY
 cdh.spec
+.github/*/**
