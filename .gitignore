@@ -9,7 +9,7 @@ cdh.egg-info/
 build
 dist
 out/
-
+pipo/
 venv/
 infrastructure/.terraform/
 infrastructure/terraform.tfstate.backup
